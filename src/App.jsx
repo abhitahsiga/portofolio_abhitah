@@ -141,7 +141,7 @@ export default function Portfolio() {
       company: "Personal Project",
       status: "Production",
       icon: "🤖",
-      image: "https://unsplash.com/photos/a-white-robot-with-blue-eyes-and-a-laptop--0xMiYQmk8g"
+      image: "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800&h=600&fit=crop"
     }
   ];
 
