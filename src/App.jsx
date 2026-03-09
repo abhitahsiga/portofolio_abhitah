@@ -141,7 +141,17 @@ export default function Portfolio() {
       company: "Personal Project",
       status: "Production",
       icon: "🤖",
-      image: "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800&h=600&fit=crop"
+      image: "https://images.unsplash.com/photo-1718241905462-56e7b9f722f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YWklMjBjaGF0Ym90fGVufDB8fDB8fHww"
+    },
+    {
+      title: "APOD Gallery",
+      description: "Website untuk belajar dan mengetahui bagaimana perjalanan astronomi dari tahun 1995 sampai 2026",
+      tech: ["Next.js","JavaScript", "HTML", "CSS"],
+      company: "Personal Project",
+      status: "Live",
+      icon: "🌌",
+      link: "https://apodnihbos.vercel.app/",
+      image: "https://images.unsplash.com/photo-1501523321-8ecb927b4be6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGFzdHJvcGhvdG9ncmFwaHl8ZW58MHx8MHx8fDA%3D"
     }
   ];
 
